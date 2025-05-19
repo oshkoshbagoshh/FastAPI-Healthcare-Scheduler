@@ -1,0 +1,52 @@
+.api-test {
+  padding: 1rem;
+}
+
+.test-results {
+  margin-bottom: 1.5rem;
+}
+
+.test-status {
+  font-size: 1.25rem;
+  font-weight: 600;
+  margin-bottom: 1rem;
+  padding: 0.5rem;
+  border-radius: 4px;
+}
+
+.test-status.success {
+  color: #2ecc71;
+  background-color: rgba(46, 204, 113, 0.1);
+}
+
+.test-status.error {
+  color: #e74c3c;
+  background-color: rgba(231, 76, 60, 0.1);
+}
+
+.test-details {
+  margin-bottom: 1rem;
+}
+
+.test-details ul {
+  margin: 0.5rem 0;
+  padding-left: 1.5rem;
+}
+
+.test-details.error {
+  color: #e74c3c;
+}
+
+.error-message {
+  background-color: rgba(231, 76, 60, 0.1);
+  padding: 0.75rem;
+  border-radius: 4px;
+  margin-top: 0.5rem;
+  font-family: monospace;
+  white-space: pre-wrap;
+  word-break: break-word;
+}
+
+.test-actions {
+  margin-top: 1rem;
+}
