@@ -3,6 +3,8 @@
 An AI-powered healthcare scheduling system for outpatient procedures.
 
 ## Overview
+<img width="1322" alt="image" src="https://github.com/user-attachments/assets/21fa40f4-2266-42e7-babe-a396af61d518" />
+
 
 This application uses machine learning techniques to optimize the scheduling of outpatient procedures based on patient diagnoses, CPT codes, resource availability, and other factors. It provides a comprehensive API for managing patients, medical data, resources, and scheduling.
 
